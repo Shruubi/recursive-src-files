@@ -1,14 +1,22 @@
 {
-  "name": "recursive-src-files",
-  "version": "0.1.0",
-  "description": "for every sub-directory, process the source files under that directory",
-  "main": "src/src_files.js",
-  "scripts": {
-    "test": "mocha tests"
-  },
-  "author": "Damon Swayn <me@shruubi.io>",
-  "license": "BSD-3-Clause",
-  "devDependencies": {
-    "chai": "^3.5.0"
-  }
+	"name": "recursive-src-files",
+	"version": "0.1.0",
+	"description": "for every sub-directory, process the source files under that directory",
+	"keywords": [
+		"directory scanning",
+		"src processing"
+	],
+	"main": "src/src_files.js",
+	"scripts": {
+		"test": "mocha tests"
+	},
+	"author": "Damon Swayn <me@shruubi.io>",
+	"license": "BSD-3-Clause",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Shruubi/recursive-src-files.git"
+	},
+	"devDependencies": {
+		"chai": "^3.5.0"
+	}
 }
