@@ -1,4 +1,4 @@
-# recursiveSrcFiles
+# recursive-src-files
 
 Simple node package that allows you to iterate over each sub-directory
 in a given directory and apply a callback to an array of files in the
