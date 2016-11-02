@@ -1,0 +1,14 @@
+{
+  "name": "recursive-src-files",
+  "version": "0.1.0",
+  "description": "for every sub-directory, process the source files under that directory",
+  "main": "src/src_files.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Damon Swayn <me@shruubi.io>",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
